@@ -23,15 +23,25 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+h1, h2, h3, h4, h5 {
+  font-family: 'Raleway', sans-serif;
+
+}
+
 .head-nav-text {
-  color: grey;
+  color: #6177A5;
   font-size: 32px;
   padding-top: 16px;
   font-weight: 700;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  /* font-family: 'Playfair Display', serif; */
 }
 
 .small-nav-text {
   font-size: 18px;
   font-weight: 400;
+}
+
+.clip { 
+  padding-top: 30px;
 }
