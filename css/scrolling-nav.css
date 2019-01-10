@@ -19,22 +19,24 @@ section {
 }
 
 body {
-  background-color: #F0F4F4;
+  background-color: #E8F4F4;
+  /* background-color: #F0F4F4; */
   font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Playfair Display', serif;
 
 }
 
 .head-nav-text {
   color: #6177A5;
+  /* color: #054175; */
   font-size: 32px;
   padding-top: 16px;
   font-weight: 700;
-  font-family: 'Raleway', sans-serif;
-  /* font-family: 'Playfair Display', serif; */
+  /* font-family: 'Raleway', sans-serif; */
+  font-family: 'Playfair Display', serif;
 }
 
 .small-nav-text {
